@@ -2,7 +2,7 @@
 
 project live link :
 
-https://skills-share.herokuapp.com/
+https://skillsshare.netlify.app/
 
 
 Clone this repo first and folow the simple steps to see the project and run in your local server::
